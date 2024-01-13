@@ -9,7 +9,7 @@
     3) Set **App Installer - python3.exe** to **off**
 5) Clone the repository
    ```
-   git clone https://github.com/sandmmakers/BedLeveler5000.git
+   git clone https://github.com/sandmmakers/BedLeveler5000.git --recurse-submodule
    ```
 6) Enter the repository
    ```
@@ -89,7 +89,7 @@
                ```
 4) Clone the repository
    ```
-   git clone https://github.com/sandmmakers/BedLeveler5000.git
+   git clone https://github.com/sandmmakers/BedLeveler5000.git --recurse-submodule
    ```
 5) Enter the repository
    ```
@@ -99,6 +99,7 @@
    ```
    ./build_all
    ```
+7) You'll find all executables of the software suite in the `Install` directory
 
    [Visual Studio] <https://visualstudio.microsoft.com>
    [Python]: <https://www.python.org>
